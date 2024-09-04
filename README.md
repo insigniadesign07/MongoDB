@@ -6,7 +6,7 @@ Clone the Repository:
 
 # bash
 Copy code
-git clone https://github.com/yourusername/node-mongo-crud.git
+git clone https://github.com/insigniadesign07/node-mongo-crud.git
 Navigate to Project Directory:
 
 # bash
